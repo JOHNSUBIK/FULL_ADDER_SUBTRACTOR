@@ -100,4 +100,12 @@ Full_adder
 ![313683969-1ebe8851-dd84-47c0-a6e2-040e73a61d8e](https://github.com/Hezron-lix/FULL_ADDER_SUBTRACTOR/assets/139331337/7ac86948-5e35-41f6-ab82-89d86938f436)
 
 
+Full_subtractor
+![313684102-32788124-8d44-469f-a1a2-92375eb05afb](https://github.com/Hezron-lix/FULL_ADDER_SUBTRACTOR/assets/139331337/47370fa6-6ee8-4273-bd2b-8e3f5eeb6c3b)
+
+**Result:**
+
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+
+
 
